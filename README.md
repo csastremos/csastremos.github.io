@@ -1,2 +1,2 @@
-# reinodeetruria.github.io
+# personal website
 Historias, digresiones y pensamientos
