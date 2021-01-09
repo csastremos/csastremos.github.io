@@ -1,6 +1,6 @@
 # Estructura del sitio
-## Configuración
-**_layouts**
+### Configuración
+**_layouts**  
   [default](/_layouts/default.html)
   post : utiliza estructura default, con alguna particularidad más
 **_posts:** aquí se almacenan los posts del blog. 
@@ -10,7 +10,7 @@
   - Formato de links de los post del blog
   - PENDIENTE ampliar posibilidades de esto.
  
-## DIRECTORIOS:
+### DIRECTORIOS:
 **/about :** descripción del sitio
 **/blog:** contiene relación de posts publicados (bucle for).
 **/css:** estilos
