@@ -1,7 +1,7 @@
 # Estructura del sitio
 ### Configuración
 **_layouts**  
-  [default](/_layouts/default.html)
+  [default](/_layouts/default.html)  
   post : utiliza estructura default, con alguna particularidad más
 **_posts:** aquí se almacenan los posts del blog. 
   - Los ficheros deben tener nombre YYYY-MM-DD-name.md
