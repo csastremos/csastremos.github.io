@@ -1,11 +1,11 @@
 # Estructura del sitio
 ### Configuración
-**_layouts**  
-  [default](/_layouts/default.html)  
-  [post](/layouts/post.html) : utiliza estructura default, con alguna particularidad más  
-  **[_posts](/_posts):** aquí se almacenan los posts del blog. 
+**[_layouts](_/layouts)**  
+  - [default](/_layouts/default.html)  
+  - [post](/layouts/post.html) : utiliza estructura default, con alguna particularidad más  
+**[_posts](/_posts):** aquí se almacenan los posts del blog. 
   - Los ficheros deben tener nombre YYYY-MM-DD-name.md  
-  **[_config.yml](/_config.yml)**
+**[_config.yml](/_config.yml)**
   - Versión de Markdown
   - Formato de links de los post del blog
   - PENDIENTE ampliar posibilidades de esto.
