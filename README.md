@@ -1,5 +1,5 @@
 # Estructura del sitio
-### Configuración
+##### Configuración
 **[_layouts](_/layouts)**  
   - [default](/_layouts/default.html)  
   - [post](/layouts/post.html) : utiliza estructura default, con alguna particularidad más
@@ -12,7 +12,7 @@
   - Formato de links de los post del blog
   - PENDIENTE ampliar posibilidades de esto.
  
-### DIRECTORIOS:
+##### DIRECTORIOS:
 **[/about](/about) :** descripción del sitio  
 **[/blog](/blog)** contiene relación de posts publicados (bucle for).  
 **[/css](/css):** estilos  
