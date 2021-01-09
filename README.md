@@ -2,7 +2,7 @@
 ### Configuración
 **_layouts**  
   [default](/_layouts/default.html)  
-  post : utiliza estructura default, con alguna particularidad más  
+  [post](/layouts/post.html) : utiliza estructura default, con alguna particularidad más  
   **_posts:** aquí se almacenan los posts del blog. 
   - Los ficheros deben tener nombre YYYY-MM-DD-name.md  
   **_config.yml**
@@ -11,7 +11,7 @@
   - PENDIENTE ampliar posibilidades de esto.
  
 ### DIRECTORIOS:
-**/about :** descripción del sitio  
+**[/about](/about) :** descripción del sitio  
 **/blog:** contiene relación de posts publicados (bucle for).  
 **/css:** estilos  
 **/fiction:** contendrá historias de ficción, separadas del blog.
